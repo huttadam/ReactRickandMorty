@@ -1,0 +1,24 @@
+[
+    {
+        "user_id": 1000,
+        "f_name": "John",
+        "l_name": "Works",
+        "email": "john@example.com",
+        "is_Manager": false
+    },
+    {
+        "user_id": 1001,
+        "f_name": "Sally",
+        "l_name": "Labours",
+        "email": "sally@example.com",
+        "is_Manager": false
+    },
+    {
+        "user_id": 1002,
+        "f_name": "Gary",
+        "l_name": "Greenthumb",
+        "email": "boss@example.com",
+        "is_Manager": true
+    }
+]
+  
