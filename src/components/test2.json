@@ -1,0 +1,78 @@
+[
+    {
+        "job_id": 10000,
+        "cus_f_name": "Carlos", 
+        "cus_l_name": "DaCustomer",
+        "cus_email": "carl@example.com",
+        "address_URL": "https://maps.app.goo.gl/YBRosxq4d9EGdzm9A",
+        "job_description": "Remove all the weeds, build a privacy hedge 20m long total and plant customers rare flowers infront of hedge",
+        "start_date_time": "2024-02-11T09:00:50.633Z",
+        "is_finished": false,
+        "total_man_hours": 0,
+        "hours_of_work": [
+            {
+                "date": "2024-02-11T10:00:50",
+                "total_daily_man_hours": 21,
+                "work_notes": "We removed all the weeds, and made perimeter for hedges",
+                "employees": [
+                    {
+                        "employee_Id": 1000,
+                        "clock_start": "2024-02-11T09:00:50.633Z",
+                        "clock_finish": "2024-02-11T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    },
+                    {
+                        "employee_Id": 1001,
+                        "clock_start": "2024-02-11T09:00:50.633Z",
+                        "clock_finish": "2024-02-11T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    },
+                    {
+                        "employee_Id": 1002,
+                        "clock_start": "2024-02-11T09:00:50.633Z",
+                        "clock_finish": "2024-02-11T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-12T10:00:50",
+                "total_daily_man_hours": 21,
+                "work_notes": "Planted the hedges and prepared for rare flowers, went to the tip",
+                "employees": [
+                    {
+                        "employee_Id": 1000,
+                        "clock_start": "2024-02-12T09:00:50.633Z",
+                        "clock_finish": "2024-02-12T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    },
+                    {
+                        "employee_Id": 1001,
+                        "clock_start": "2024-02-12T09:00:50.633Z",
+                        "clock_finish": "2024-02-12T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    },
+                    {
+                        "employee_Id": 1002,
+                        "clock_start": "2024-02-12T09:00:50.633Z",
+                        "clock_finish": "2024-02-12T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    }
+                ]
+            },
+            {
+                "date": "2024-02-12T10:00:50",
+                "total_daily_man_hours": 8,
+                "work_notes": "Planted rare flowers as per customer request, cleaned the site",
+                "employees": [
+                    {
+                        "employee_Id": 1000,
+                        "clock_start": "2024-02-12T09:00:50.633Z",
+                        "clock_finish": "2024-02-12T17:00:50",
+                        "daily_e_hours_worked": "Calculate in code" 
+                    }
+                ]
+            }
+        ]
+    }
+]
